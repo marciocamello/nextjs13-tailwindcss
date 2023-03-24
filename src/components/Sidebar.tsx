@@ -16,7 +16,7 @@ export function Sidebar() {
                     </div>
                 </div>
                 <div className="flex flex-col gap-4">
-                    <strong className="text-zinc-100 font-medium text-sm">Re className="sources</strong>
+                    <strong className="text-zinc-100 font-medium text-sm">Resources</strong>
                     <div className="text-sm flex flex-col pl-2">
                         <Navlink href="/dashboard/Contacts">Contacts</Navlink>
                         <Navlink href="/dashboard/FAQ">FAQ</Navlink>
